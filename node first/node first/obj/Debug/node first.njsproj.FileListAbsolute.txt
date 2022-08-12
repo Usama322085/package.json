@@ -1,0 +1,3 @@
+C:\usama faheem\semester 8\skillreactor\node first\node first\obj\Debug\node first.njsprojAssemblyReference.cache
+C:\usama faheem\semester 8\skillreactor\node first\node first\obj\Debug\node first.njsproj.CoreCompileInputs.cache
+C:\usama faheem\semester 8\skillreactor\node first\node first\bin\Microsoft.NodejsTools.WebRole.dll
